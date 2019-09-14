@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST_HAMBURG.
 
-write: 'Test'.
+cl_demo_output=>display( |abapGit is cool!| ).
